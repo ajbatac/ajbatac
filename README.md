@@ -14,9 +14,10 @@ I am a **Proven Tech Leader** with over **25 years of experience** in technology
 
 I champion exceptional user experiences, ensuring every product is not only functional but also accessible (AODA/WCAG 2.1 compliance) and intuitive.
 
-- 🌩️ **Cloud Expert:** AWS, GCP, Digital Ocean
-- 🤖 **AI Enthusiast:** Generative AI, RAG, AI Agents
-- 📱 **Full Stack:** LAMP Stack, React, Dart/Flutter, Headless CMS
+- 🌩️ **Cloud Expert:** AWS, GCP, Digital Ocean, RDS, CloudFlare
+- 🤖 **AI Enthusiast:** Generative AI, RAG, AI Agents, LLMs, SDD
+- 📱 **Full Stack:** LAMP Stack, React, Dart/Flutter, Headless CMS, Next JS, Vite
+- 📱 **Data:** MySQL, MSSQL, NoSQL, Postgresql
 - 🎨 **User-Centric:** Strong focus on UI/UX and Accessibility
 
 ---
