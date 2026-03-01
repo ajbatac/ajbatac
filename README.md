@@ -27,7 +27,12 @@ I champion exceptional user experiences, ensuring every product is not only func
 
 | Project | Description |
 | :--- | :--- |
-| **[Tales](https://tales.socialspark.website/)** | 🧞 Transform ideas into short stories with stunning AI-generated art and text. |
+| **[Heather Tardiff](https://htardiffphotography.ca/)** | 📸 Connection-driven wedding and family photography capturing authentic moments. |
+| **[Marissa Naylor](https://marissanaylorphoto.ca/)** | 🏔️ Timeless prairie-inspired wedding and adventure photography. |
+| **[GreenRocket](https://greenrocket.app/)** | 🚀 Community platform for tech founders to launch and discuss innovations. |
+| **[Beautiful Invoices](https://invoice.wpeg.app/)** | 🧾 Private, local-first professional invoicing for small businesses. |
+| **[LinkN](https://linkn.ca/)** | 🔗 Thoughtfully designed platform to consolidate your digital presence. |
+| **[Tales](https://tales.socialspark.website/)** | 🧞 Transform ideas into short stories with AI-generated art and text. |
 | **[Favicon.Love](https://favicon.love/)** | 🖼️ Generate professional favicons (SVG, ICO, PNG, Animated) in seconds. |
 | **[Launch_Wizard](https://launch-wizard.techhive.net/)** | 🚀 Browser-based deployment checklists for software engineers to ship without failure. |
 | **[GlobalTrends](https://gtrends.website/)** | 📈 Real-time global search trends explorer with AI-powered viral potential prediction. |
@@ -49,6 +54,7 @@ I champion exceptional user experiences, ensuring every product is not only func
 | **[QRky](https://qrky.site/?=github)** | 📱 Open-source QR code generator and decoder. |
 | **[Canvas Crop](https://canvas-crop.netlify.app/?=github)** | ✂️ Open-source tool for cropping images on a canvas. |
 | **[RetroSnap](https://retrosnap.ca/?=github)** | 📷 Add a retro look to your photos for a nostalgic vibe. |
+
 
 ---
 
