@@ -1,4 +1,4 @@
-# Allan "AJ" Batac
+# Allan Batac
 
 <p align="center">
   <strong>Tech Leader | Web Application Developer | Design Engineer | AI Product Builder</strong>
