@@ -18,7 +18,7 @@ I build accessible, resilient web products from idea to launch, with a focus on 
 
 | Area | Strengths |
 | :--- | :--- |
-| **Leadership** | 25+ years across technology leadership, web platforms, team growth, stakeholder delivery, and SDLC execution. |
+| **Leadership** | Seasoned technology leadership, web platforms, team growth, stakeholder delivery, and SDLC execution. |
 | **Product Engineering** | Full-stack web apps, React, Next.js, Vite, Dart/Flutter, LAMP, headless CMS, API design, and automation. |
 | **AI Systems** | Generative AI, RAG, LLM workflows, AI agents, local AI, image intelligence, and AI-assisted product features. |
 | **Cloud & Data** | AWS, GCP, DigitalOcean, Cloudflare, RDS, MySQL, MSSQL, NoSQL, and PostgreSQL. |
@@ -104,8 +104,7 @@ _Selected web apps and products built from ideation through execution._
 | University of Santo Tomas, BSECE, Electronics and Communications | AWS DevOps Certified |
 | Holy Angel University, BSCS, Computer Science | Understanding Generative AI, RAG/Inference, and Building ChatGPT Plugins |
 | Don Bosco Academy, High School Diploma | Inclusive Leadership and Managing Multigenerational Teams |
-|  | Understanding Deepfake |
-|  | Critical Thinking for More Effective Communication |
+
 
 ---
 
