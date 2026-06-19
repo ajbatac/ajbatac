@@ -1,7 +1,7 @@
 # Allan Batac
 
 <p align="center">
-  <strong>Tech Leader | Web Application Developer | Design Engineer | AI Product Builder</strong>
+  <strong>Seasoned SaaS / Applications Developer</strong>
 </p>
 
 <p align="center">
