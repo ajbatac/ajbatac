@@ -2,41 +2,9 @@
 
 <h1>Allan Batac</h1>
 
-```text
-~~~~~~~~=~=======<=l.. .   .. :,.,;;:;:,:i...|~~~!~++!!!||||
-~~~~=~~~~==<=<<<<=:.... .,,,,i1i;;:;::. . ,  .:~~~+~++++!!||
-~~~~~~~=====<<<<~:,.,,.:;Il+=<<<||It,::..     ..|~~+~+++!+!|
-~~~~=~~~==<<<==<!,,:,:;1!=>#M#&WMWWW>~I1;:.      !~~~~~+++!!
-~~~~===<===<<<<<l;1;iitl=*MW&&&%@@@&&W#<~!lI;,   ;~~~~~+~+!!
-~~~~~~==<=<<<<<<i1;tI;1=MW&%%%%@$@@&&WM*><=!|1:. .=~~~+~++!+
-~=====~=<=<<<=<+itIii1l+#W&%█@▓▓$$%@%%WWM*>=!I;, .~~~~~~+++!
-~~~~~=~==<=<=<=|itI11t!*MW&%$@@$██@@&@%&W##<~li;. ~~~~~+~+++
-=~~=====<==<<<<=1;i;I<MM&&&&%#<=~#$@@$%%%MM>~|1:..~~~~~++++!
-~~~~===<~====<&W=liI|>M%%$#I+>M>*==+>@$@&W*=+lI;, ~++~++++++
-~~~=~========<%W$>ii+*M%%%%@@#|I<>=#M%@%WM|i:. .,.+++++++!!!     █████╗ ██╗     ██╗      █████╗ ███╗   ██╗
-~~~~==~======<<█M*|l=*W&%@@#W@@IMit*$$@<I1!<><|: I+++++++!!!    ██╔══██╗██║     ██║     ██╔══██╗████╗  ██║
-~~============I$%M!~>MM&%$▓▓$$&###@$$░█|1==i=:.:.!+++!!!!!!|    ███████║██║     ██║     ███████║██╔██╗ ██║
-~~~~=~===~===~1=$~!~*#W%@$█▒▒█@@@@$$█▒$~I=#<~!t;.!|!!!!!!!!|    ██╔══██║██║     ██║     ██╔══██║██║╚██╗██║
-~~~~=~~===~==~:&=~~~<#W%@█▒░☻░$%%%███▒▓#I~*M#>+i,!!!|!|!||||    ██║  ██║███████╗███████╗██║  ██║██║ ╚████║
-++~~~~=~=~=~~!i=@!|~<*M&@@$█▓@M<#%▒☻☺☺░#l|=##<+i.||!|||||||l    ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-++~+~~==~~+i,.;+l!l+=**&%&%WM+~@█&+>~=<titl**=l:I|||||lll|lI
-+++~~~~~=~Ii..;+!tI|~>*#W%W*!<<&$M@%*~l;;;l==|i.ll|lllllllII                        B A T A C
-!++++~~~~~t1iIl+=!1I!=>*M&##~!!~>>><=!Ii;,1|l;,1llllIllIIIII
-+++++~+~~lt11it|=<ttI|+<*#MMW&@&WM@░░@=;.1It|,,IIlIIIIIttttt           FULL-STACK ENGINEER · UI/UX · TECH LEADER
-+++++++~It1t11i;!=>111I|=<>W&@@$█$>=+|1:1!!|,,IIIIIIIttttIt1
-+!+!++!ltt1t1tii:|<=It1tI|<*MW&%%&<!llt1t1i,iIIttttttttt1ttt
-!!!!!lt11t11tt1i;,!~~ItttIlI~*#WW&#*~+It:,..itttttItt11t1111
-|!!|Ilt11t111111i:,I~+I1111t:I~<><=~+It:     .:1ttttt111i111
-||lIIItIi1itiii1i;:,1+|Ii;;;ii,:iiii::         ..i111i1i1iii
-|Ittt1t1i11iitt;i;;:,:lIt1;:,,,,,.              ..,ii1iiiiii
-t1tttttt1iiiiiii1;;;:,,11i:,,,,..                ...iii;;;;i
-1111111t11iiii11ii;;;::,;i:,....                 ....,;;;;;;
-11111tti111it1;;iiii:;;::,;:,.,,                  .....,;:::
-1111111111111111i::;i:::::,,i::,...     .         ......,:::
-11t11tti111i11i1ii1i;;;:,:::,::::;:........       .........:
-i111i1i;i1111i1i1iiiii::::,,,:,;i1i,,...,.    . ............
-1i1t11il1111t11i1iii;;;;::,,,,.t,:;,,,,,....................
-```
+<img src="./assets/ascii-art.svg" width="520" alt="ASCII art portrait of Allan Batac" />
+
+<p><strong>FULL-STACK ENGINEER · UI/UX · TECH LEADER</strong></p>
 
 ### `complex requirements` → `robust, production-ready systems`
 
@@ -254,9 +222,11 @@ AI-powered cooking companion for converting units and tips.
 
 Rate actors and view AI-powered summaries of celebrities.
 
-### [Email Signatures](https://www.emailsig.website/?=github)
+### [EmailSig](https://www.emailsig.website/)
 
-Free email signature generator for creating professional signatures compatible with major clients.
+**Create brilliant email signatures in seconds.**
+
+Professional email signatures that make a lasting impression. Choose from 20 beautiful templates, add your logo, and generate HTML or text formats instantly.
 
 ### [Headless WP to React](https://photos-tech.netlify.app/?=github)
 
@@ -270,7 +240,7 @@ AI-powered tool that auto-generates engaging content for social media.
 
 Platform for reporting hotel issues and reading reviews from other travelers in Canada.
 
-### [Email IQ](https://www.emailiq.tech/?=github)
+### [Email IQ](https://www.emailiq.tech/?=github) `ARCHIVED`
 
 Tool that helps users analyze the quality of their emails to improve communication.
 
