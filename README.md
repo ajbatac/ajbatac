@@ -1,9 +1,6 @@
 <div align="center">
 
 <h1>Allan Batac</h1>
-
-<img src="./assets/ascii-art.svg" width="520" alt="ASCII art portrait of Allan Batac" />
-
 <p><strong>FULL-STACK ENGINEER · UI/UX · TECH LEADER</strong></p>
 
 ### `complex requirements` → `robust, production-ready systems`
