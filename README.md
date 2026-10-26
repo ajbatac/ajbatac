@@ -112,6 +112,30 @@
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
+### 🧩 [PaTTTerns — AI seamless pattern generator](https://pattterns.ca/)
+
+![Next.js][badge-nextjs] ![React][badge-react] ![Cloudflare edge][badge-cloudflare-edge]
+
+Turn a single thought into a seamless pattern in seconds. Describe your idea to generate a novel, tileable design, then download it in print-ready, high-resolution formats for textiles, packaging, digital art and more.
+
+### 🛡️ [QR Shield — Secure QR scanner & malicious link detector](https://qrshield.ca/)
+
+![Next.js][badge-nextjs] ![React][badge-react] ![Tailwind CSS][badge-tailwind] ![Cloudflare edge][badge-cloudflare-edge]
+
+A secure QR code scanner and malicious link detector built for speed and peace of mind. Scan QR codes and check links for security risks before opening them.
+
+### 🎨 [CSS Showcase — Open-source CSS pattern gallery](https://css.techhive.net)
+
+![React][badge-react] ![Vite][badge-vite] ![Tailwind CSS][badge-tailwind] ![Cloudflare edge][badge-cloudflare-edge]
+
+A curated, open-source gallery of modern CSS techniques, layouts and effects. Browse live examples, follow the changelog, subscribe via RSS, or view the source on GitHub — [source on GitHub](https://github.com/ajbatac/css-showcase).
+
+### 💍 [KnotFlow — Wedding day timeline builder](https://knotflow.techhive.net/)
+
+![Vite][badge-vite] ![Supabase][badge-supabase] ![Cloudflare edge][badge-cloudflare-edge]
+
+An elegant, stress-free wedding day timeline builder crafted for couples, wedding coordinators, and professional vendors. Plan your wedding day, leave time between events, and give everyone a schedule they can follow.
+
 ### 🏙️ [WPEG Classifieds — Local marketplace](https://classifieds.wpeg.ca)
 
 ![Next.js][badge-nextjs] ![Firebase App Hosting][badge-firebase-app-hosting]
@@ -193,13 +217,13 @@ A privacy-first, AI-powered text rephraser that runs entirely offline in your br
 
 We engineer professional impact. We reconstruct scattered experiences into undeniable narratives, automate the friction of the application process, and accelerate your path to the interview room.
 
-### [Heather Tardiff](https://htardiffphotography.ca/)
+### [Heather Tardiff Photography](https://htardiffphotography.ca/)
 
 ![WordPress][badge-wordpress] ![jQuery][badge-jquery]
 
 A down-to-earth, slightly quirky Winnipeg wedding and family photographer who leads with connection and authenticity, capturing candid, emotion-filled moments for couples and growing families.
 
-### [Marissa Naylor](https://marissanaylorphoto.ca/)
+### [Marissa Naylor Photography](https://marissanaylorphoto.ca/)
 
 ![WordPress][badge-wordpress] ![jQuery][badge-jquery]
 
