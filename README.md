@@ -196,8 +196,11 @@ Community-centric FOSS directory that surfaces popular GitHub projects, contribu
 
 Filipino-Canadian business directory helping people discover and support top-rated Filipino-owned restaurants, grocery stores, bakeries, professional services, beauty providers, and health services across Canada.
 
-<details>
-<summary><strong>Open the app drawer — 30 more builds inside</strong></summary>
+```text
+┌─────────────────────────────────────────────────────────────────────┐
+│  MORE BUILDS                                          STATUS: MIXED  │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 ### [DotsLife](https://dotslife.app/)
 
@@ -380,8 +383,6 @@ An open-source tool for cropping images on a canvas.
 ![Next.js][badge-nextjs] ![Netlify][badge-netlify] ![Cloudflare edge][badge-cloudflare-edge]
 
 Tool to add a retro look to your photos, perfect for creating nostalgic images.
-
-</details>
 
 ---
 
