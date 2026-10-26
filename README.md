@@ -198,7 +198,7 @@ Filipino-Canadian business directory helping people discover and support top-rat
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────┐
-│  MORE BUILDS                                          STATUS: MIXED  │
+│  MORE BUILDS                                             STATUS: MIXED  │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
